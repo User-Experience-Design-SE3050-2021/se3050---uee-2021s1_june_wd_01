@@ -1,4 +1,5 @@
 ####  *User Experience Engineering - SE3050  - Group  Details*  ####
+---------------
 
 ####  Group Id : 2021S1_JUNE_WD_01  ####
 ####  Project Application : E channeling App  ####
